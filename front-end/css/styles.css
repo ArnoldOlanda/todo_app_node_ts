@@ -16,7 +16,7 @@
   align-items: center;
 }
 .container .todo-container {
-  width: 50%;
+  width: 45%;
   height: 85vh;
   overflow: auto;
   display: flex;
